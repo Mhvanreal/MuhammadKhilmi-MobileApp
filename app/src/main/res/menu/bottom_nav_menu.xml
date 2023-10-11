@@ -23,7 +23,7 @@
 
     <item
         android:id="@+id/navigation_skill"
-        android:icon="@drawable/ic_skill_black"
+        android:icon="@drawable/skiiiii"
         android:title="Skill" />
 
 </menu>
